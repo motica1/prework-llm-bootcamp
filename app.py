@@ -1,5 +1,5 @@
 import chainlit as cl
-import openapi 
+import openai 
 import os
 
 api_key = os.getenv("OPENAI_API_KEY")
